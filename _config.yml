@@ -1,26 +1,26 @@
 # Site
-name: "김현규"
-title: "Fabian's Blog"
-description: "UX를 생각하는 Frontend 개발자 김현규 입니다 😃"
+name: "김동훈"
+title: "Donghun's Blog"
+description: "React로 닿길 원하는 개발자, 김동훈입니다 🌏"
 logo: "assets/images/fabian.png"
 favicon: "assets/images/fabian.png"
 baseurl: ""
-url: "https://codefabian.github.io/"
+url: "https://rlaehdgns217.github.io/"
 google_analytics: "UA-xxxxxxxx-1"
 disqus: "demowebsite"
 # mailchimp-list: "https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b"
 include: ["_pages"]
 permalink: /:title/
-email: khg.fabian@gmail.com
+email: kisses217@gmail.com
 
 # Authors
 authors:
   Fabian:
-    name: Fabian
-    display_name: Fabian
+    name: Donghun
+    display_name: Donghun
     avatar: ""
-    email: khg.fabian@gmail.com
-    description: "UX를 생각하는 Frontend 개발자 김현규 입니다 😃"
+    email: kisses217@gmail.com
+    description: "React로 닿길 원하는 개발자, 김동훈입니다 🌏"
 
 # Plugins
 plugins:
