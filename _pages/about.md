@@ -23,7 +23,7 @@ imageshadow: true
 ### Tool
 
 - Git, Github
-- Slack, Zoom Notion, Figma
+- Slack, Zoom, Notion, Figma
 
 ### 관심 있는 것
 
