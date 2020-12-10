@@ -18,7 +18,7 @@ var documents = [{
     "id": 3,
     "url": "http://localhost:4000/contact",
     "title": "Contact",
-    "body": "  Please send your message to 김현규. We will reply as soon as possible!   "
+    "body": "  Please send your message to 김동훈. We will reply as soon as possible!   "
     }, {
     "id": 4,
     "url": "http://localhost:4000/",
