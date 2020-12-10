@@ -2,8 +2,8 @@
 name: "김동훈"
 title: "Donghun's Blog"
 description: "React로 닿길 원하는 개발자, 김동훈입니다 🌏"
-logo: "assets/images/fabian.png"
-favicon: "assets/images/fabian.png"
+logo: "assets/images/Donghun.jpeg"
+favicon: "assets/images/Donghun.jpeg"
 baseurl: ""
 url: "https://rlaehdgns217.github.io/"
 google_analytics: "UA-xxxxxxxx-1"
@@ -15,7 +15,7 @@ email: kisses217@gmail.com
 
 # Authors
 authors:
-  Fabian:
+  Dennis:
     name: Donghun
     display_name: Donghun
     avatar: ""
