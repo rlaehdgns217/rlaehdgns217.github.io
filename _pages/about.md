@@ -12,6 +12,7 @@ imageshadow: true
 - 거주지: 제주, 대한민국 🇰🇷
 - 이름: 동훈 (Donghun Kim)
 - 이메일: kisses217@gmail.com
+- 이전 블로그: https://ddstil.tistory.com/
 
 ## 스택
 
