@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-12-14 20:00:00
+date: 2020-12-15 20:00:00
 title: 'backoffice 마무리'
 author: 김동훈
 categories: [TIL]
