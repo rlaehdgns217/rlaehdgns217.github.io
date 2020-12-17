@@ -5,7 +5,7 @@ title: 'slice vs splice'
 author: 김동훈
 categories: [TIL]
 tags: [github]
-image: https://gmlwjd9405.github.io/images/data-structure-heap/types-of-heap.png
+image: https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567008394/noticon/ohybolu4ensol1gzqas1.png
 rating: 3
 ---
 
@@ -13,7 +13,6 @@ rating: 3
 
 생성일: 2020년 12월 17일 오후 11:01
 
-![slice,%20splice%E1%84%8B%E1%85%B4%20%E1%84%8E%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%A5%E1%86%B7%20dfdb3d2c7cbf4363bd3475ade539ba2e/Untitled.png](slice,%20splice%E1%84%8B%E1%85%B4%20%E1%84%8E%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%A5%E1%86%B7%20dfdb3d2c7cbf4363bd3475ade539ba2e/Untitled.png)
 
 - slice(start[, end])
 
