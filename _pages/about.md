@@ -14,8 +14,8 @@ imageshadow: true
 - 이메일: kisses217@gmail.com
 
 - [Github](https://github.com/rlaehdgns217)
-- [Readme.dh] : (https://www.notion.so/d4564a3759c64498ac14606ed15d48da)
-- [Pastblog]: (https://ddstil.tistory.com/)
+- [Readme.dh](https://www.notion.so/d4564a3759c64498ac14606ed15d48da)
+- [Pastblog](https://ddstil.tistory.com/)
 
 
 
