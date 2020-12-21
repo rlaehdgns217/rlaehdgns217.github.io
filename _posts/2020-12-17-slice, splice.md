@@ -5,7 +5,7 @@ title: 'slice vs splice'
 author: 김동훈
 categories: [TIL]
 tags: [github]
-image: https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567008394/noticon/ohybolu4ensol1gzqas1.png
+image: https://joshua1988.github.io/images/posts/web/javascript/js.png
 rating: 3
 ---
 
