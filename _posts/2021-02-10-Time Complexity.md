@@ -20,8 +20,6 @@ rating: 3
 
 - 입력값에 상관 없이 언제나 일정한 시간이 걸리는 알고리즘
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/de3a25bd-c4ea-4d6f-93d8-16d7c3436a8d/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/de3a25bd-c4ea-4d6f-93d8-16d7c3436a8d/Untitled.png)
-
 ### O(n)
 
 - 입력데이터의 크기에 비례해서 처리 시간이 걸리는 알고리즘
@@ -34,8 +32,6 @@ const function = () => {
   }
 };
 ```
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e4ee25c4-768f-4b53-ab34-56018acf00ea/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e4ee25c4-768f-4b53-ab34-56018acf00ea/Untitled.png)
 
 - 데이터랑 시간이 같은 비율로 증가함
 
@@ -54,8 +50,6 @@ const function = () => {
 };
 ```
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a979fd52-55aa-42d7-a23b-e7046881ebe5/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a979fd52-55aa-42d7-a23b-e7046881ebe5/Untitled.png)
-
 ### O(nm)
 
 - n개의 루프를 m번 돌리는 알고리즘
@@ -69,8 +63,6 @@ const function = () => {
   }
 };
 ```
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a979fd52-55aa-42d7-a23b-e7046881ebe5/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a979fd52-55aa-42d7-a23b-e7046881ebe5/Untitled.png)
 
 ### O(n^3)
 
@@ -89,8 +81,6 @@ const function = () => {
 };
 ```
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0f3d4e15-1cd8-42f1-ae02-32d67367ffeb/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0f3d4e15-1cd8-42f1-ae02-32d67367ffeb/Untitled.png)
-
 ### O(2^n) or O(m^n)
 
 - 피보나치
@@ -102,10 +92,6 @@ const fibo = (n, r) => {
   else r[n] = fibo(n - 1, r) + fibo(n - 2, r);
 };
 ```
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9160cb98-709c-4591-a3fb-4e46a547d619/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9160cb98-709c-4591-a3fb-4e46a547d619/Untitled.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/212c880e-abd2-4948-8dca-7c17fc1b810f/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/212c880e-abd2-4948-8dca-7c17fc1b810f/Untitled.png)
 
 ### O(log n)
 
