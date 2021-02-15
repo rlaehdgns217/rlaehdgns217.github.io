@@ -109,3 +109,9 @@ const function = (num,arr,start,end) => {
 
 }
 ```
+
+### O(nlog n)
+
+- nlogn이라는 수 자체에 대해서 아직 개념이 잡히지 않았던 것 같다. logn이 n번 연산되는것이니, logn의 시간 복잡도를 가지는 이진탐색트리를 n번 연산하면 되지 않나? 하는 이상한 질문도 했었다.
+- 퀵소트, 힙소트, 머지소트의 경우 nlogn의 시간 복잡도를 가지게 된다(참고 [블로그](https://codingdog.tistory.com/entry/%ED%80%B5-%EC%A0%95%EB%A0%AC-%ED%8F%89%EA%B7%A0-%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84-%EC%99%9C-Onlogn%EC%9D%BC%EA%B9%8C) )
+- 이진탐색트리의 경우에는 기준을 잡고 기준보다 크거나 작으면 반대편은 아예 탐색하지 않으므로 logn의 시간복잡도를 가지게 되고, 퀵소트 등의 경우에는 pivot을 잡고, 반대편은 버리는 것이 아니라 반대편까지도 탐색을 해야 하기 때문에 logn을 n번 하게 되는 연산을 거치게 된다.
